@@ -1,0 +1,13 @@
+{
+  "errors": [],
+  "gameId": "zenless-zone-zero",
+  "generatedAtUtc": "2026-08-31T19:48:43.064Z",
+  "metrics": {
+    "entries": 82,
+    "unresolvedTitles": 4,
+    "verifiedTitles": 78
+  },
+  "schemaVersion": 1,
+  "status": "passed",
+  "warnings": []
+}

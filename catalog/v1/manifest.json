@@ -1,11 +1,28 @@
 {
-  "generatedAtUtc": "2026-08-31T03:15:29.000Z",
+  "games": [
+    {
+      "contentSha256": "72cd42172e870bd25ac25534aa96b04a07c08a6abe6595e51fb8b7c81429a317",
+      "gameId": "genshin-impact",
+      "manifestPath": "games/genshin-impact/manifest.json"
+    },
+    {
+      "contentSha256": "5cddd64ade69d432bdaa4144318695c002e9c48c08396167457aa887a1de9383",
+      "gameId": "honkai-star-rail",
+      "manifestPath": "games/honkai-star-rail/manifest.json"
+    },
+    {
+      "contentSha256": "df5f6f011848fa8a4aed3b69cfc4e6bd6dbff669b3878bdc8891113ebd6e4882",
+      "gameId": "zenless-zone-zero",
+      "manifestPath": "games/zenless-zone-zero/manifest.json"
+    }
+  ],
+  "generatedAtUtc": "2026-08-31T19:48:43.064Z",
   "packages": [
     {
-      "byteLength": 325219,
-      "contentSha256": "29f8c5fb8f0fe0623b6d66440046f4554b71ec5cfe6c593f7386b3cbffa7f8ab",
-      "path": "objects/02a51cc9db1ee2837fb38e08981e0cfc767a4070a78c2ddfdb208bb55945d769.json",
-      "sha256": "02a51cc9db1ee2837fb38e08981e0cfc767a4070a78c2ddfdb208bb55945d769"
+      "byteLength": 625465,
+      "contentSha256": "b6840b734a1ec8766383abf0f00987722bd589f4bcbbcceed77137f6f123bced",
+      "path": "objects/b78010535946e65de1e12641c4fe080fdf7435eaf5c6ecf38819b996b8295b70.json",
+      "sha256": "b78010535946e65de1e12641c4fe080fdf7435eaf5c6ecf38819b996b8295b70"
     }
   ],
   "schemaVersion": 1
