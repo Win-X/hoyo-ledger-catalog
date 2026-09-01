@@ -1,7 +1,7 @@
 {
   "games": [
     {
-      "contentSha256": "72cd42172e870bd25ac25534aa96b04a07c08a6abe6595e51fb8b7c81429a317",
+      "contentSha256": "c9e481f76e321c2cc0396696afd89d3ebdacee26e353f6beec6deb464f61caa4",
       "gameId": "genshin-impact",
       "manifestPath": "games/genshin-impact/manifest.json"
     },
@@ -16,7 +16,7 @@
       "manifestPath": "games/zenless-zone-zero/manifest.json"
     }
   ],
-  "generatedAtUtc": "2026-08-31T19:48:43.064Z",
+  "generatedAtUtc": "2026-09-01T03:15:29.000Z",
   "packages": [
     {
       "byteLength": 625465,
