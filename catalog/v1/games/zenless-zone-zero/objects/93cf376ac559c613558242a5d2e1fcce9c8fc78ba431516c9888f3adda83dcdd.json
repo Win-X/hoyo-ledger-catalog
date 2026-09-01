@@ -1,0 +1,3736 @@
+{
+  "entries": [
+    {
+      "endTimeUtc": "9999-12-31T15:59:59.000Z",
+      "featuredItemIds": [],
+      "gachaType": "1001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:1001:2024-07-03T22:00:00.000Z:",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "fixed-game-taxonomy",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "fixed-game-taxonomy:zenless-zone-zero:1001",
+          "sourceUrl": "https://github.com/Win-X/hoyo-ledger-catalog"
+        }
+      ],
+      "startTimeUtc": "2024-07-03T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "热门卡司"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "fixed-game-taxonomy"
+      }
+    },
+    {
+      "endTimeUtc": "2026-02-05T06:59:59.000Z",
+      "featuredItemIds": [
+        "1311",
+        "1381",
+        "1401"
+      ],
+      "gachaType": "102",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1311",
+            "1381",
+            "1401"
+          ],
+          "titles": {
+            "zh-CN": "独家重映"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:102:2026-01-21T04:00:00.000Z:2.5",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:001",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2026-01-21T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "独家重映"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2026-09-08T06:59:59.000Z",
+      "featuredItemIds": [
+        "1201",
+        "1411",
+        "1481"
+      ],
+      "gachaType": "102",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1481"
+          ],
+          "titles": {
+            "zh-CN": "独家重映"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:102:2026-08-19T04:00:00.000Z:3.1",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "77539168",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=77539168"
+        }
+      ],
+      "startTimeUtc": "2026-08-19T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "独家重映"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-02-05T06:59:59.000Z",
+      "featuredItemIds": [
+        "14131",
+        "14138",
+        "14140"
+      ],
+      "gachaType": "103",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14131",
+            "14138",
+            "14140"
+          ],
+          "titles": {
+            "zh-CN": "音擎回响"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:103:2026-01-21T04:00:00.000Z:2.5",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:001",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2026-01-21T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "音擎回响"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2026-09-08T06:59:59.000Z",
+      "featuredItemIds": [
+        "14120",
+        "14141",
+        "14148"
+      ],
+      "gachaType": "103",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14120",
+            "14141",
+            "14148",
+            "1481",
+            "1581",
+            "1591"
+          ],
+          "titles": {
+            "zh-CN": "音擎回响"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:103:2026-08-19T04:00:00.000Z:3.1",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "77539168",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=77539168"
+        }
+      ],
+      "startTimeUtc": "2026-08-19T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "音擎回响"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2024-07-24T03:59:59.000Z",
+      "featuredItemIds": [
+        "1191"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1191"
+          ],
+          "titles": {
+            "zh-CN": "慵懒逐浪"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2024-07-03T22:00:00.000Z:1.0",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:001",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-07-03T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "慵懒逐浪"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2024-08-13T06:59:59.000Z",
+      "featuredItemIds": [
+        "1241"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1241"
+          ],
+          "titles": {
+            "zh-CN": "直如朱丝绳"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2024-07-24T04:00:00.000Z:1.0",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:002",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-07-24T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "直如朱丝绳"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2024-09-04T03:59:59.000Z",
+      "featuredItemIds": [
+        "1251"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1251"
+          ],
+          "titles": {
+            "zh-CN": "青如玉壶冰"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2024-08-13T22:00:00.000Z:1.1",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:003",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-08-13T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "青如玉壶冰"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2024-09-24T06:59:59.000Z",
+      "featuredItemIds": [
+        "1261"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1261"
+          ],
+          "titles": {
+            "zh-CN": "『查无此人』"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2024-09-04T04:00:00.000Z:1.1",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:004",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-09-04T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "『查无此人』"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2024-10-16T03:59:59.000Z",
+      "featuredItemIds": [
+        "1071"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1071"
+          ],
+          "titles": {
+            "zh-CN": "荣焰桂冠"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2024-09-24T22:00:00.000Z:1.2",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:005",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-09-24T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "荣焰桂冠"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2024-11-05T06:59:59.000Z",
+      "featuredItemIds": [
+        "1171"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1171"
+          ],
+          "titles": {
+            "zh-CN": "天生丽炽"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2024-10-16T04:00:00.000Z:1.2",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:006",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-10-16T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "天生丽炽"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2024-11-27T03:59:59.000Z",
+      "featuredItemIds": [
+        "1221"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1221"
+          ],
+          "titles": {
+            "zh-CN": "休心沐月"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2024-11-05T22:00:00.000Z:1.3",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:007",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-11-05T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "休心沐月"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2024-12-17T06:59:59.000Z",
+      "featuredItemIds": [
+        "1161"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1161"
+          ],
+          "titles": {
+            "zh-CN": "余烬之冕"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2024-11-27T04:00:00.000Z:1.3",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:008",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-11-27T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "余烬之冕"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2025-01-21T06:59:59.000Z",
+      "featuredItemIds": [
+        "1091",
+        "1201"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1201"
+          ],
+          "titles": {
+            "zh-CN": "循此苦旅"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1091"
+          ],
+          "titles": {
+            "zh-CN": "砺世澄沧"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2024-12-17T22:00:00.000Z:1.4",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:009-1,009-2",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-12-17T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "砺世澄沧 × 循此苦旅"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2025-02-12T03:59:59.000Z",
+      "featuredItemIds": [
+        "1191",
+        "1311"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1311"
+          ],
+          "titles": {
+            "zh-CN": "千千阙音"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1191"
+          ],
+          "titles": {
+            "zh-CN": "慵懒逐浪"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-01-21T22:00:00.000Z:1.5",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:010-1,010-2",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2025-01-21T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "千千阙音 × 慵懒逐浪"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2025-03-11T06:59:59.000Z",
+      "featuredItemIds": [
+        "1251",
+        "1321"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1321"
+          ],
+          "titles": {
+            "zh-CN": "光与影的纱网"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1251"
+          ],
+          "titles": {
+            "zh-CN": "青如玉壶冰"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-02-12T04:00:00.000Z:1.5",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:011-1,011-2",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2025-02-12T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "光与影的纱网 × 青如玉壶冰"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2025-04-02T03:59:59.000Z",
+      "featuredItemIds": [
+        "1171",
+        "1381"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1171"
+          ],
+          "titles": {
+            "zh-CN": "天生丽炽"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1381"
+          ],
+          "titles": {
+            "zh-CN": "露电倒影"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-03-11T22:00:00.000Z:1.6",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:012-1,012-2",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2025-03-11T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "露电倒影 × 天生丽炽"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2025-04-22T06:59:59.000Z",
+      "featuredItemIds": [
+        "1241",
+        "1361"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1361"
+          ],
+          "titles": {
+            "zh-CN": "冥目幽华"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1241"
+          ],
+          "titles": {
+            "zh-CN": "直如朱丝绳"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-04-02T04:00:00.000Z:1.6",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:013-1,013-2",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2025-04-02T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "冥目幽华 × 直如朱丝绳"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2025-05-14T03:59:59.000Z",
+      "featuredItemIds": [
+        "1261",
+        "1331"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1261"
+          ],
+          "titles": {
+            "zh-CN": "『查无此人』"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1331"
+          ],
+          "titles": {
+            "zh-CN": "飞鸟坠入良夜"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-04-22T22:00:00.000Z:1.7",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "63771560",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=63771560"
+        }
+      ],
+      "startTimeUtc": "2025-04-22T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "飞鸟坠入良夜 × 『查无此人』"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-06-05T06:59:59.000Z",
+      "featuredItemIds": [
+        "1161",
+        "1291"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1161"
+          ],
+          "titles": {
+            "zh-CN": "余烬之冕"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1291"
+          ],
+          "titles": {
+            "zh-CN": "譬如昨日死"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-05-14T04:00:00.000Z:1.7",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:015-1,015-2",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2025-05-14T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "譬如昨日死 × 余烬之冕"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2025-06-25T03:59:59.000Z",
+      "featuredItemIds": [
+        "1311",
+        "1371"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1311"
+          ],
+          "titles": {
+            "zh-CN": "千千阙音"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1371"
+          ],
+          "titles": {
+            "zh-CN": "独步沧溟"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-06-05T22:00:00.000Z:2.0",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "64937128",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=64937128"
+        }
+      ],
+      "startTimeUtc": "2025-06-05T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "独步沧溟 × 千千阙音"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-07-15T06:59:59.000Z",
+      "featuredItemIds": [
+        "1071",
+        "1391"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1391"
+          ],
+          "titles": {
+            "zh-CN": "福福生威"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1071"
+          ],
+          "titles": {
+            "zh-CN": "荣焰桂冠"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-06-25T04:00:00.000Z:2.0",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "65672298",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=65672298"
+        }
+      ],
+      "startTimeUtc": "2025-06-25T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "福福生威 × 荣焰桂冠"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-08-06T03:59:59.000Z",
+      "featuredItemIds": [
+        "1091",
+        "1411"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1411"
+          ],
+          "titles": {
+            "zh-CN": "戏语幽谭"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-07-15T22:00:00.000Z:2.1",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "66424797",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=66424797"
+        }
+      ],
+      "startTimeUtc": "2025-07-15T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "戏语幽谭"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-09-03T06:59:59.000Z",
+      "featuredItemIds": [
+        "1221",
+        "1401"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1401"
+          ],
+          "titles": {
+            "zh-CN": "馥草芳誓"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-08-06T04:00:00.000Z:2.1",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "67127644",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=67127644"
+        }
+      ],
+      "startTimeUtc": "2025-08-06T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "馥草芳誓"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-09-24T03:59:59.000Z",
+      "featuredItemIds": [
+        "1361",
+        "1461"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1361"
+          ],
+          "titles": {
+            "zh-CN": "冥目幽华"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1461"
+          ],
+          "titles": {
+            "zh-CN": "泪铸生花"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-09-03T22:00:00.000Z:2.2",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "68099503",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=68099503"
+        }
+      ],
+      "startTimeUtc": "2025-09-03T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "泪铸生花 × 冥目幽华"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-10-14T06:59:59.000Z",
+      "featuredItemIds": [
+        "1301",
+        "1321"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1321"
+          ],
+          "titles": {
+            "zh-CN": "光与影的纱网"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-09-24T04:00:00.000Z:2.2",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "68811059",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=68811059"
+        }
+      ],
+      "startTimeUtc": "2025-09-24T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "光与影的纱网"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-11-05T03:59:59.000Z",
+      "featuredItemIds": [
+        "1331",
+        "1451"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1451"
+          ],
+          "titles": {
+            "zh-CN": "绮夜游灯"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1331"
+          ],
+          "titles": {
+            "zh-CN": "飞鸟坠入良夜"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-10-14T22:00:00.000Z:2.3",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "69578026",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=69578026"
+        }
+      ],
+      "startTimeUtc": "2025-10-14T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "绮夜游灯 × 飞鸟坠入良夜"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-11-25T06:59:59.000Z",
+      "featuredItemIds": [
+        "1051",
+        "1391"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1051"
+          ],
+          "titles": {
+            "zh-CN": "孤旅同梦"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1391"
+          ],
+          "titles": {
+            "zh-CN": "福福生威"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-11-05T04:00:00.000Z:2.3",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "70243107",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=70243107"
+        }
+      ],
+      "startTimeUtc": "2025-11-05T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "孤旅同梦 × 福福生威"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-12-17T03:59:59.000Z",
+      "featuredItemIds": [
+        "1291",
+        "1481"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1481"
+          ],
+          "titles": {
+            "zh-CN": "唤寂昔声"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1291"
+          ],
+          "titles": {
+            "zh-CN": "譬如昨日死"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-11-25T22:00:00.000Z:2.4",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "70850589",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=70850589"
+        }
+      ],
+      "startTimeUtc": "2025-11-25T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "唤寂昔声 × 譬如昨日死"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-12-29T06:59:59.000Z",
+      "featuredItemIds": [
+        "1191",
+        "1471"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1191"
+          ],
+          "titles": {
+            "zh-CN": "慵懒逐浪"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1471"
+          ],
+          "titles": {
+            "zh-CN": "渡夜焚心"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-12-17T04:00:00.000Z:2.4",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "71501966",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=71501966"
+        }
+      ],
+      "startTimeUtc": "2025-12-17T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "渡夜焚心 × 慵懒逐浪"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-02-05T06:59:59.000Z",
+      "featuredItemIds": [
+        "1341",
+        "1431"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1431"
+          ],
+          "titles": {
+            "zh-CN": "光落于指尖"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1341"
+          ],
+          "titles": {
+            "zh-CN": "无价之心"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2025-12-29T22:00:00.000Z:2.5",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "71844593",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=71844593"
+        }
+      ],
+      "startTimeUtc": "2025-12-29T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "光落于指尖 × 无价之心"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-03-04T03:59:59.000Z",
+      "featuredItemIds": [
+        "1371",
+        "1491"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1491"
+          ],
+          "titles": {
+            "zh-CN": "四三拍谬想"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1371"
+          ],
+          "titles": {
+            "zh-CN": "独步沧溟"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2026-02-05T22:00:00.000Z:2.6",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "72932885",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=72932885"
+        }
+      ],
+      "startTimeUtc": "2026-02-05T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "四三拍谬想 × 独步沧溟"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-03-23T06:59:59.000Z",
+      "featuredItemIds": [
+        "1411",
+        "1501"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1411"
+          ],
+          "titles": {
+            "zh-CN": "戏语幽谭"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1501"
+          ],
+          "titles": {
+            "zh-CN": "霓色天使"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2026-03-04T04:00:00.000Z:2.6",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "73665718",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=73665718"
+        }
+      ],
+      "startTimeUtc": "2026-03-04T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "霓色天使 × 戏语幽谭"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-04-15T03:59:59.000Z",
+      "featuredItemIds": [
+        "1051",
+        "1511"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1051"
+          ],
+          "titles": {
+            "zh-CN": "孤旅同梦"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1511"
+          ],
+          "titles": {
+            "zh-CN": "视线定格公理"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2026-03-23T22:00:00.000Z:2.7",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "74097893",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=74097893"
+        }
+      ],
+      "startTimeUtc": "2026-03-23T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "视线定格公理 × 孤旅同梦"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-05-05T06:59:59.000Z",
+      "featuredItemIds": [
+        "1461",
+        "1521"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1461"
+          ],
+          "titles": {
+            "zh-CN": "泪铸生花"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1521"
+          ],
+          "titles": {
+            "zh-CN": "贪食进化论"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2026-04-15T04:00:00.000Z:2.7",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "74593786",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=74593786"
+        }
+      ],
+      "startTimeUtc": "2026-04-15T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "贪食进化论 × 泪铸生花"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-05-27T03:59:59.000Z",
+      "featuredItemIds": [
+        "1451",
+        "1541"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1541"
+          ],
+          "titles": {
+            "zh-CN": "冷雨将尽之夜"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1451"
+          ],
+          "titles": {
+            "zh-CN": "绮夜游灯"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2026-05-05T22:00:00.000Z:2.8",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "75123586",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=75123586"
+        }
+      ],
+      "startTimeUtc": "2026-05-05T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "冷雨将尽之夜 × 绮夜游灯"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-06-16T06:59:59.000Z",
+      "featuredItemIds": [
+        "1301",
+        "1531"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1531"
+          ],
+          "titles": {
+            "zh-CN": "星徽于此闪耀"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2026-05-27T04:00:00.000Z:2.8",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "75593104",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=75593104"
+        }
+      ],
+      "startTimeUtc": "2026-05-27T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "星徽于此闪耀"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-07-08T03:59:59.000Z",
+      "featuredItemIds": [
+        "1431",
+        "1561"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1431"
+          ],
+          "titles": {
+            "zh-CN": "光落于指尖"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1561"
+          ],
+          "titles": {
+            "zh-CN": "凛风吟仪"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2026-06-16T22:00:00.000Z:3.0",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "76018764",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=76018764"
+        }
+      ],
+      "startTimeUtc": "2026-06-16T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "凛风吟仪 × 光落于指尖"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-07-28T06:59:59.000Z",
+      "featuredItemIds": [
+        "1491",
+        "1571"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1491"
+          ],
+          "titles": {
+            "zh-CN": "四三拍谬想"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "1571"
+          ],
+          "titles": {
+            "zh-CN": "天才不等式"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2026-07-08T04:00:00.000Z:3.0",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "76484294",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=76484294"
+        }
+      ],
+      "startTimeUtc": "2026-07-08T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "天才不等式 × 四三拍谬想"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-08-19T03:59:59.000Z",
+      "featuredItemIds": [
+        "1501",
+        "1581"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1501"
+          ],
+          "titles": {
+            "zh-CN": "霓色天使"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2026-07-28T22:00:00.000Z:3.1",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "76978820",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=76978820"
+        }
+      ],
+      "startTimeUtc": "2026-07-28T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "霓色天使"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-09-08T06:59:59.000Z",
+      "featuredItemIds": [
+        "1581",
+        "1591"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "1591"
+          ],
+          "titles": {
+            "zh-CN": "直到天空沉落"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2026-08-19T04:00:00.000Z:3.1",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "77539168",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=77539168"
+        }
+      ],
+      "startTimeUtc": "2026-08-19T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "直到天空沉落"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-09-30T03:59:59.000Z",
+      "featuredItemIds": [
+        "1511",
+        "1611"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2026-09-08T22:00:00.000Z:3.2",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        }
+      ],
+      "startTimeUtc": "2026-09-08T22:00:00.000Z",
+      "titles": {},
+      "verification": {
+        "formalTitles": "unresolved",
+        "schedule": "community-only"
+      }
+    },
+    {
+      "endTimeUtc": "2026-10-20T06:59:59.000Z",
+      "featuredItemIds": [
+        "1541",
+        "1621"
+      ],
+      "gachaType": "2001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:2001:2026-09-30T04:00:00.000Z:3.2",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        }
+      ],
+      "startTimeUtc": "2026-09-30T04:00:00.000Z",
+      "titles": {},
+      "verification": {
+        "formalTitles": "unresolved",
+        "schedule": "community-only"
+      }
+    },
+    {
+      "endTimeUtc": "2024-07-24T03:59:59.000Z",
+      "featuredItemIds": [
+        "14119"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14119"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2024-07-03T22:00:00.000Z:1.0",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:001",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-07-03T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2024-08-13T06:59:59.000Z",
+      "featuredItemIds": [
+        "14124"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14124"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2024-07-24T04:00:00.000Z:1.0",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:002",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-07-24T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2024-09-04T03:59:59.000Z",
+      "featuredItemIds": [
+        "14125"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14125"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2024-08-13T22:00:00.000Z:1.1",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:003",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-08-13T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2024-09-24T06:59:59.000Z",
+      "featuredItemIds": [
+        "14126"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14126"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2024-09-04T04:00:00.000Z:1.1",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:004",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-09-04T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2024-10-16T03:59:59.000Z",
+      "featuredItemIds": [
+        "14107"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14107"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2024-09-24T22:00:00.000Z:1.2",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:005",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-09-24T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2024-11-05T06:59:59.000Z",
+      "featuredItemIds": [
+        "14117"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14117"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2024-10-16T04:00:00.000Z:1.2",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:006",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-10-16T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2024-11-27T03:59:59.000Z",
+      "featuredItemIds": [
+        "14122"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14122"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2024-11-05T22:00:00.000Z:1.3",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:007",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-11-05T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2024-12-17T06:59:59.000Z",
+      "featuredItemIds": [
+        "14116"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14116"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2024-11-27T04:00:00.000Z:1.3",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:008",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-11-27T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2025-01-21T06:59:59.000Z",
+      "featuredItemIds": [
+        "14109",
+        "14120"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14109"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14120"
+          ],
+          "titles": {
+            "zh-CN": "灿烂和声"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2024-12-17T22:00:00.000Z:1.4",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:009-1,009-2",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2024-12-17T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣 × 灿烂和声"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2025-02-12T03:59:59.000Z",
+      "featuredItemIds": [
+        "14119",
+        "14131"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14119"
+          ],
+          "titles": {
+            "zh-CN": "2"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14131"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-01-21T22:00:00.000Z:1.5",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:010-1,010-2",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2025-01-21T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣 × 2"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2025-03-11T06:59:59.000Z",
+      "featuredItemIds": [
+        "14125",
+        "14132"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14125"
+          ],
+          "titles": {
+            "zh-CN": "2"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14132"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-02-12T04:00:00.000Z:1.5",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:011-1,011-2",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2025-02-12T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣 × 2"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2025-04-02T03:59:59.000Z",
+      "featuredItemIds": [
+        "14117",
+        "14138"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14138"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14117"
+          ],
+          "titles": {
+            "zh-CN": "激荡谐振"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-03-11T22:00:00.000Z:1.6",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:012-1,012-2",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2025-03-11T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣 × 激荡谐振"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2025-04-22T06:59:59.000Z",
+      "featuredItemIds": [
+        "14124",
+        "14136"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14136"
+          ],
+          "titles": {
+            "zh-CN": "灿烂和声"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14124"
+          ],
+          "titles": {
+            "zh-CN": "璀璨韵律"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-04-02T04:00:00.000Z:1.6",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:013-1,013-2",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2025-04-02T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "灿烂和声 × 璀璨韵律"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2025-05-14T03:59:59.000Z",
+      "featuredItemIds": [
+        "14126",
+        "14133"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14133"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14126"
+          ],
+          "titles": {
+            "zh-CN": "激荡谐振"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-04-22T22:00:00.000Z:1.7",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "63771560",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=63771560"
+        }
+      ],
+      "startTimeUtc": "2025-04-22T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣 × 激荡谐振"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-06-05T06:59:59.000Z",
+      "featuredItemIds": [
+        "14116",
+        "14129"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14129"
+          ],
+          "titles": {
+            "zh-CN": "灿烂和声"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14116"
+          ],
+          "titles": {
+            "zh-CN": "璀璨韵律"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-05-14T04:00:00.000Z:1.7",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "community-wiki-backfill",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "bwiki-zzz-past-banners:015-1,015-2",
+          "sourceUrl": "https://wiki.biligame.com/zzz/%E5%BE%80%E6%9C%9F%E8%B0%83%E9%A2%91"
+        }
+      ],
+      "startTimeUtc": "2025-05-14T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "灿烂和声 × 璀璨韵律"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "community-wiki-backfill"
+      }
+    },
+    {
+      "endTimeUtc": "2025-06-25T03:59:59.000Z",
+      "featuredItemIds": [
+        "14131",
+        "14137"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14137"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14131"
+          ],
+          "titles": {
+            "zh-CN": "激荡谐振"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-06-05T22:00:00.000Z:2.0",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "64937128",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=64937128"
+        }
+      ],
+      "startTimeUtc": "2025-06-05T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣 × 激荡谐振"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-07-15T06:59:59.000Z",
+      "featuredItemIds": [
+        "14107",
+        "14139"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14139"
+          ],
+          "titles": {
+            "zh-CN": "灿烂和声"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14107"
+          ],
+          "titles": {
+            "zh-CN": "璀璨韵律"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-06-25T04:00:00.000Z:2.0",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "65672298",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=65672298"
+        }
+      ],
+      "startTimeUtc": "2025-06-25T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "灿烂和声 × 璀璨韵律"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-08-06T03:59:59.000Z",
+      "featuredItemIds": [
+        "14109",
+        "14141"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14141"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14109"
+          ],
+          "titles": {
+            "zh-CN": "激荡谐振"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-07-15T22:00:00.000Z:2.1",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "66424797",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=66424797"
+        }
+      ],
+      "startTimeUtc": "2025-07-15T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣 × 激荡谐振"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-09-03T06:59:59.000Z",
+      "featuredItemIds": [
+        "14122",
+        "14140"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14140"
+          ],
+          "titles": {
+            "zh-CN": "灿烂和声"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14122"
+          ],
+          "titles": {
+            "zh-CN": "璀璨韵律"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-08-06T04:00:00.000Z:2.1",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "67127644",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=67127644"
+        }
+      ],
+      "startTimeUtc": "2025-08-06T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "灿烂和声 × 璀璨韵律"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-09-24T03:59:59.000Z",
+      "featuredItemIds": [
+        "14136",
+        "14146"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14146"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14136"
+          ],
+          "titles": {
+            "zh-CN": "激荡谐振"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-09-03T22:00:00.000Z:2.2",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "68099503",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=68099503"
+        }
+      ],
+      "startTimeUtc": "2025-09-03T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣 × 激荡谐振"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-10-14T06:59:59.000Z",
+      "featuredItemIds": [
+        "14130",
+        "14132"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14130"
+          ],
+          "titles": {
+            "zh-CN": "灿烂和声"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14132"
+          ],
+          "titles": {
+            "zh-CN": "璀璨韵律"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-09-24T04:00:00.000Z:2.2",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "68811059",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=68811059"
+        }
+      ],
+      "startTimeUtc": "2025-09-24T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "灿烂和声 × 璀璨韵律"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-11-05T03:59:59.000Z",
+      "featuredItemIds": [
+        "14133",
+        "14145"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14145"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14133"
+          ],
+          "titles": {
+            "zh-CN": "激荡谐振"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-10-14T22:00:00.000Z:2.3",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "69578026",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=69578026"
+        }
+      ],
+      "startTimeUtc": "2025-10-14T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣 × 激荡谐振"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-11-25T06:59:59.000Z",
+      "featuredItemIds": [
+        "14105",
+        "14139"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14105"
+          ],
+          "titles": {
+            "zh-CN": "灿烂和声"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14139"
+          ],
+          "titles": {
+            "zh-CN": "璀璨韵律"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-11-05T04:00:00.000Z:2.3",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "70243107",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=70243107"
+        }
+      ],
+      "startTimeUtc": "2025-11-05T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "灿烂和声 × 璀璨韵律"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-12-17T03:59:59.000Z",
+      "featuredItemIds": [
+        "14129",
+        "14148"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14148"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14129"
+          ],
+          "titles": {
+            "zh-CN": "激荡谐振"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-11-25T22:00:00.000Z:2.4",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "70850589",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=70850589"
+        }
+      ],
+      "startTimeUtc": "2025-11-25T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣 × 激荡谐振"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2025-12-29T06:59:59.000Z",
+      "featuredItemIds": [
+        "14119",
+        "14147"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14147"
+          ],
+          "titles": {
+            "zh-CN": "灿烂和声"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14119"
+          ],
+          "titles": {
+            "zh-CN": "璀璨韵律"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-12-17T04:00:00.000Z:2.4",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "71501966",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=71501966"
+        }
+      ],
+      "startTimeUtc": "2025-12-17T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "灿烂和声 × 璀璨韵律"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-02-05T06:59:59.000Z",
+      "featuredItemIds": [
+        "14134",
+        "14143"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14143"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14134"
+          ],
+          "titles": {
+            "zh-CN": "激荡谐振"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2025-12-29T22:00:00.000Z:2.5",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "71844593",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=71844593"
+        }
+      ],
+      "startTimeUtc": "2025-12-29T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣 × 激荡谐振"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-03-04T03:59:59.000Z",
+      "featuredItemIds": [
+        "14137",
+        "14149"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14149"
+          ],
+          "titles": {
+            "zh-CN": "喧哗奏鸣"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14137"
+          ],
+          "titles": {
+            "zh-CN": "激荡谐振"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2026-02-05T22:00:00.000Z:2.6",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "72932885",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=72932885"
+        }
+      ],
+      "startTimeUtc": "2026-02-05T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "喧哗奏鸣 × 激荡谐振"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-03-23T06:59:59.000Z",
+      "featuredItemIds": [
+        "14141",
+        "14150"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14150"
+          ],
+          "titles": {
+            "zh-CN": "灿烂和声"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14141"
+          ],
+          "titles": {
+            "zh-CN": "璀璨韵律"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2026-03-04T04:00:00.000Z:2.6",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "73665718",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=73665718"
+        }
+      ],
+      "startTimeUtc": "2026-03-04T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "灿烂和声 × 璀璨韵律"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-04-15T03:59:59.000Z",
+      "featuredItemIds": [
+        "14105",
+        "14151"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14105"
+          ],
+          "titles": {
+            "zh-CN": "海妖摇篮"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14151"
+          ],
+          "titles": {
+            "zh-CN": "霓虹妄想"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2026-03-23T22:00:00.000Z:2.7",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "74097893",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=74097893"
+        }
+      ],
+      "startTimeUtc": "2026-03-23T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "霓虹妄想 × 海妖摇篮"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-05-05T06:59:59.000Z",
+      "featuredItemIds": [
+        "14146",
+        "14152"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14146"
+          ],
+          "titles": {
+            "zh-CN": "机巧心种"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14152"
+          ],
+          "titles": {
+            "zh-CN": "鳞齿寻踪"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2026-04-15T04:00:00.000Z:2.7",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "74593786",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=74593786"
+        }
+      ],
+      "startTimeUtc": "2026-04-15T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "鳞齿寻踪 × 机巧心种"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-05-27T03:59:59.000Z",
+      "featuredItemIds": [
+        "14145",
+        "14154"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14154"
+          ],
+          "titles": {
+            "zh-CN": "朔月裁霜"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14145"
+          ],
+          "titles": {
+            "zh-CN": "铸梦炉歌"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2026-05-05T22:00:00.000Z:2.8",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "75123586",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=75123586"
+        }
+      ],
+      "startTimeUtc": "2026-05-05T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "朔月裁霜 × 铸梦炉歌"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-06-16T06:59:59.000Z",
+      "featuredItemIds": [
+        "14130",
+        "14153"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14130"
+          ],
+          "titles": {
+            "zh-CN": "嚣枪喧焰"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14153"
+          ],
+          "titles": {
+            "zh-CN": "辉骑面铠"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2026-05-27T04:00:00.000Z:2.8",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "75593104",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=75593104"
+        }
+      ],
+      "startTimeUtc": "2026-05-27T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "辉骑面铠 × 嚣枪喧焰"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-07-08T03:59:59.000Z",
+      "featuredItemIds": [
+        "14143",
+        "14156"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14143"
+          ],
+          "titles": {
+            "zh-CN": "云霓孤光"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14156"
+          ],
+          "titles": {
+            "zh-CN": "琳琅鎏心"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2026-06-16T22:00:00.000Z:3.0",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-08-31T19:48:43.064Z",
+          "sourceId": "76018764",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=76018764"
+        }
+      ],
+      "startTimeUtc": "2026-06-16T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "琳琅鎏心 × 云霓孤光"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-07-28T06:59:59.000Z",
+      "featuredItemIds": [
+        "14149",
+        "14157"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14149"
+          ],
+          "titles": {
+            "zh-CN": "思络成歌"
+          }
+        },
+        {
+          "featuredItemIds": [
+            "14157"
+          ],
+          "titles": {
+            "zh-CN": "首席跟班"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2026-07-08T04:00:00.000Z:3.0",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "76484294",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=76484294"
+        }
+      ],
+      "startTimeUtc": "2026-07-08T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "首席跟班 × 思络成歌"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-08-19T03:59:59.000Z",
+      "featuredItemIds": [
+        "14150",
+        "14158"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14150"
+          ],
+          "titles": {
+            "zh-CN": "壳中之灵"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2026-07-28T22:00:00.000Z:3.1",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "76978820",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=76978820"
+        }
+      ],
+      "startTimeUtc": "2026-07-28T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "壳中之灵"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-09-08T06:59:59.000Z",
+      "featuredItemIds": [
+        "14158",
+        "14159"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [
+        {
+          "featuredItemIds": [
+            "14159"
+          ],
+          "titles": {
+            "zh-CN": "骁骑礼赞"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2026-08-19T04:00:00.000Z:3.1",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "official-announcement",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "77539168",
+          "sourceUrl": "https://bbs-api.miyoushe.com/post/wapi/getPostFull?read=1&post_id=77539168"
+        }
+      ],
+      "startTimeUtc": "2026-08-19T04:00:00.000Z",
+      "titles": {
+        "zh-CN": "骁骑礼赞"
+      },
+      "verification": {
+        "formalTitles": "official-announcement",
+        "schedule": "cross-source",
+        "titleSourceKind": "official-announcement"
+      }
+    },
+    {
+      "endTimeUtc": "2026-09-30T03:59:59.000Z",
+      "featuredItemIds": [
+        "14151",
+        "14161"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2026-09-08T22:00:00.000Z:3.2",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        }
+      ],
+      "startTimeUtc": "2026-09-08T22:00:00.000Z",
+      "titles": {},
+      "verification": {
+        "formalTitles": "unresolved",
+        "schedule": "community-only"
+      }
+    },
+    {
+      "endTimeUtc": "2026-10-20T06:59:59.000Z",
+      "featuredItemIds": [
+        "14154",
+        "14162"
+      ],
+      "gachaType": "3001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:3001:2026-09-30T04:00:00.000Z:3.2",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        }
+      ],
+      "startTimeUtc": "2026-09-30T04:00:00.000Z",
+      "titles": {},
+      "verification": {
+        "formalTitles": "unresolved",
+        "schedule": "community-only"
+      }
+    },
+    {
+      "endTimeUtc": "9999-12-31T15:59:59.000Z",
+      "featuredItemIds": [],
+      "gachaType": "5001",
+      "gameId": "zenless-zone-zero",
+      "presentationSlots": [],
+      "sources": [
+        {
+          "kind": "community-schedule",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa:zenless-zone-zero:5001:2024-07-03T22:00:00.000Z:",
+          "sourceUrl": "https://hoyo-gacha-v1.lgou2w.com/GachaMetadata/v2/aa1a4ad6a0dc60875a8a52c21f189a781c2cd7fa.json"
+        },
+        {
+          "kind": "fixed-game-taxonomy",
+          "retrievedAtUtc": "2026-09-01T04:15:29.000Z",
+          "sourceId": "fixed-game-taxonomy:zenless-zone-zero:5001",
+          "sourceUrl": "https://github.com/Win-X/hoyo-ledger-catalog"
+        }
+      ],
+      "startTimeUtc": "2024-07-03T22:00:00.000Z",
+      "titles": {
+        "zh-CN": "卓越搭档"
+      },
+      "verification": {
+        "formalTitles": "source-verified",
+        "schedule": "cross-source",
+        "titleSourceKind": "fixed-game-taxonomy"
+      }
+    }
+  ],
+  "gameId": "zenless-zone-zero",
+  "generatedAtUtc": "2026-09-01T04:15:29.000Z",
+  "schemaVersion": 1
+}
