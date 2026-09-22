@@ -1,11 +1,11 @@
 {
   "errors": [],
   "gameId": "genshin-impact",
-  "generatedAtUtc": "2026-09-20T03:15:10.000Z",
+  "generatedAtUtc": "2026-09-22T03:15:10.000Z",
   "metrics": {
-    "entries": 218,
-    "unresolvedTitles": 0,
-    "verifiedTitles": 218
+    "entries": 222,
+    "unresolvedTitles": 1,
+    "verifiedTitles": 221
   },
   "schemaVersion": 1,
   "status": "passed",
