@@ -6,7 +6,7 @@
       "manifestPath": "games/genshin-impact/manifest.json"
     },
     {
-      "contentSha256": "00fd990b7bfeecaa38583842da97ad1f998fdd44e1dc2e6548f064bcf2258f7d",
+      "contentSha256": "76ad058a2af2b5f0ab36d19bb2736c342ffa21cd48d2f52a6620ee71542ae9ee",
       "gameId": "honkai-star-rail",
       "manifestPath": "games/honkai-star-rail/manifest.json"
     },
@@ -16,7 +16,7 @@
       "manifestPath": "games/zenless-zone-zero/manifest.json"
     }
   ],
-  "generatedAtUtc": "2026-10-10T03:15:25.000Z",
+  "generatedAtUtc": "2026-10-10T03:35:25.000Z",
   "packages": [
     {
       "byteLength": 625465,
