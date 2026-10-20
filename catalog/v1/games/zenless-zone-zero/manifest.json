@@ -1,12 +1,12 @@
 {
   "gameId": "zenless-zone-zero",
-  "generatedAtUtc": "2026-10-19T04:15:20.000Z",
+  "generatedAtUtc": "2026-10-20T04:15:20.000Z",
   "packages": [
     {
-      "byteLength": 118563,
-      "contentSha256": "defe4d90b27c57b9dd574709fd7ec695a9202ddca3793525b3bbacdeb168618e",
-      "path": "objects/1cc5008032ba1a113ee7aac4ea0f99e346de86f8bbc299c2b0f3ff5b3c885772.json",
-      "sha256": "1cc5008032ba1a113ee7aac4ea0f99e346de86f8bbc299c2b0f3ff5b3c885772"
+      "byteLength": 119730,
+      "contentSha256": "35e26c71b969311b0ef56d6c2738d35b2aa15d1aa5df1149a37e4479c059ab6a",
+      "path": "objects/b53161dc2270dae9d11bd432bbf070295d8aadc4d7bdc9d45c6e0242b58ba8a1.json",
+      "sha256": "b53161dc2270dae9d11bd432bbf070295d8aadc4d7bdc9d45c6e0242b58ba8a1"
     }
   ],
   "qualityPath": "quality/latest.json",
