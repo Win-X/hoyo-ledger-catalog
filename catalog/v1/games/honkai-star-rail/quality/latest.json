@@ -1,11 +1,11 @@
 {
   "errors": [],
   "gameId": "honkai-star-rail",
-  "generatedAtUtc": "2026-10-10T03:35:25.000Z",
+  "generatedAtUtc": "2026-10-21T03:35:20.000Z",
   "metrics": {
     "entries": 132,
-    "unresolvedTitles": 4,
-    "verifiedTitles": 128
+    "unresolvedTitles": 2,
+    "verifiedTitles": 130
   },
   "schemaVersion": 1,
   "status": "passed",
