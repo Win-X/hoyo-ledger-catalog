@@ -11,12 +11,12 @@
       "manifestPath": "games/honkai-star-rail/manifest.json"
     },
     {
-      "contentSha256": "f5a7c45ec23f283a0cdee4a8772be6bfbaa0e2b455d288fdd096df08b3002b47",
+      "contentSha256": "2d25c206f919f470a713c55575a63906ff0e605d642824192998dadc289146d2",
       "gameId": "zenless-zone-zero",
       "manifestPath": "games/zenless-zone-zero/manifest.json"
     }
   ],
-  "generatedAtUtc": "2026-11-03T03:35:39.000Z",
+  "generatedAtUtc": "2026-11-03T04:15:39.000Z",
   "packages": [
     {
       "byteLength": 625465,
