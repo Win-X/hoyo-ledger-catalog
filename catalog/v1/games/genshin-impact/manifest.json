@@ -1,12 +1,12 @@
 {
   "gameId": "genshin-impact",
-  "generatedAtUtc": "2026-11-03T03:15:39.000Z",
+  "generatedAtUtc": "2026-11-04T03:15:38.000Z",
   "packages": [
     {
-      "byteLength": 325240,
-      "contentSha256": "76d02c941fa331efb3f641ec1be1454d84a40967b5ec8ab124521c6a88d4f07b",
-      "path": "objects/c4b73ffbfdbb547a1aa2b8b67e7c4bc22d0107ecb72b83325e4c7820e6baae42.json",
-      "sha256": "c4b73ffbfdbb547a1aa2b8b67e7c4bc22d0107ecb72b83325e4c7820e6baae42"
+      "byteLength": 326001,
+      "contentSha256": "b073134399ce9fa83f3abc3085682f7f36f7ebb3109ec2a365e2a7b596de6702",
+      "path": "objects/5dc063a9f31e771d952b2a9b03720d6c50bd2960ae28ca157a11df0959bf42c7.json",
+      "sha256": "5dc063a9f31e771d952b2a9b03720d6c50bd2960ae28ca157a11df0959bf42c7"
     }
   ],
   "qualityPath": "quality/latest.json",
