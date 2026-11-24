@@ -1,12 +1,12 @@
 {
   "gameId": "honkai-star-rail",
-  "generatedAtUtc": "2026-11-22T03:35:13.000Z",
+  "generatedAtUtc": "2026-11-24T03:35:57.000Z",
   "packages": [
     {
       "byteLength": 211809,
-      "contentSha256": "1d7342644e8991a5c593567df74395ce8a2a1c267081c0ff573331ca681027c1",
-      "path": "objects/db0e334406e9d62a12ab20983a0717543d9f505aa76156a3438e11b980332f23.json",
-      "sha256": "db0e334406e9d62a12ab20983a0717543d9f505aa76156a3438e11b980332f23"
+      "contentSha256": "915e2e8b32a26f353fc7d87b26995ee68529fee62e7aa6ab1a90678d2d16b486",
+      "path": "objects/44788df33aab1836f089d3ea0e8df4f6e2bbd78001f64377015ed5f1ae137061.json",
+      "sha256": "44788df33aab1836f089d3ea0e8df4f6e2bbd78001f64377015ed5f1ae137061"
     }
   ],
   "qualityPath": "quality/latest.json",
